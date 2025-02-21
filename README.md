@@ -60,7 +60,7 @@ S'il n'y a pas de troisième élève, ces tâches sont à répartir entre les de
 
 ### Mise en commun
 Dans l'étape suivante, résoudre tous les éventuels conflits qui adviennent. Si un conflit advient, le mentionner dans la description du commit (pas l'intitulé mais la description)
-  - Elève 1 : fusionner la branche de l'élève 2 avec sa branche via un merge sans fast-forward
+  - Elève 1                                                    : fusionner la branche de l'élève 2 avec sa branche via un merge sans fast-forward
   - Elève 2 : fusionner la branche de l'élève 3 avec sa branche via un merge avec fast-forward
   - Elève 3 : lorsque les élèves 1 et 2 ont fini et publié leurs merges, récupérer les deux branches, et les rebase sur la sienne dans l'ordre suivant : branche de l'élève 1 puis branche de l'élève 2
 
